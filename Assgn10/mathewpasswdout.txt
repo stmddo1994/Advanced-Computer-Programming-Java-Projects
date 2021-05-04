@@ -1,0 +1,26 @@
+Password! - Password Not Accepted
+Password is not 10 characters long
+Password does not have at least two digits
+
+Passw0rD$234 - Password Accepted
+
+pswd123 - Password Not Accepted
+Password is not 10 characters long
+Password does not have at least one uppercase letter
+Password does not have exactly one special character
+
+1password! - Password Not Accepted
+Password does not have at least one uppercase letter
+Password does not have at least two digits
+
+1234567890 - Password Not Accepted
+Password does not have at least one uppercase letter
+Password does not have at least three lowercase letters
+Password does not have exactly one special character
+
+G00dpass%wd - Password Accepted
+
+Gr8Password - Password Not Accepted
+Password does not have at least two digits
+Password does not have exactly one special character
+
